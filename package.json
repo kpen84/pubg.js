@@ -27,15 +27,16 @@
   "runkitExampleFilename": "docs/example.js",
   "homepage": "https://github.com/ickerio/pubg.js#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^1.4.0",
     "lodash.merge": "^4.6.1",
-    "lodash.omit": "^4.5.0"
+    "lodash.omit": "^4.5.0",
+    "pubg.js": "^3.7.2"
   },
   "devDependencies": {
-    "eslint": "^4.19.1",
-    "jsdoc": "^3.6.2",
+    "eslint": "^8.39.0",
+    "jsdoc": "^4.0.2",
     "minami": "^1.2.3",
-    "uglifyjs-webpack-plugin": "^1.2.5",
-    "webpack": "^3.11.0"
+    "uglifyjs-webpack-plugin": "^1.1.2",
+    "webpack": "^5.81.0"
   }
 }
